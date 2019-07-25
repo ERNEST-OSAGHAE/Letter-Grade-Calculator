@@ -6,7 +6,7 @@ def main():
 
     schoolgrade = input("Enter your GPA: ")
     if schoolgrade >= "3.8":
-        print('Gradel = A+')
+        print('Grade = A+')
     elif schoolgrade >= "3.4":
         print('Grade = A-')
     elif schoolgrade >= "3.1":
